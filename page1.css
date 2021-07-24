@@ -231,6 +231,7 @@ h4{
 }
 .progress{
   width: 150%;
+  margin-left: 15%;
 }
 .progress-bar{
   background-color: #ff7f78;
@@ -389,8 +390,8 @@ cursor: pointer;
 .button{
 height: 45px;
 width:20%;
-margin-left: 200px;
-margin-right: 200px;
+margin-left: 40%;
+margin-right: 40%;
 margin-top: 40px;
 }
 .button input:hover{
